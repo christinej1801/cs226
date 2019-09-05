@@ -9,6 +9,8 @@
 
 4. I had some trouble with git, but my environment seems to be running and compiling fine.
 
+
+
 **Counter Varieties**
 1. An interface extends another interface in the same way that a class would inherit from another class. In this case ResetableCounter inherits the "methods" of the parent Counter interface, value(), up(), and down().
 
